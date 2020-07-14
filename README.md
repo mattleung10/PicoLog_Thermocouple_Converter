@@ -1,5 +1,5 @@
 # PicoLog_Thermocouple_Converter
-This program is used to obtain thermocouple temperature readings (Type T), based on voltage readings, and a reference thermocouple junction temperature measured by a RTD. This program was created when I was working as a research assistant at the National University of Singapore Department of Electrical and Computer Engineering.
+This program is used to obtain thermocouple temperature readings (Type T), based on voltage readings, and a reference thermocouple junction temperature measured by a RTD. This program was created when I was working as a research assistant at the [National University of Singapore Department of Electrical and Computer Engineering](https://www.eng.nus.edu.sg/ece/).
 
 ## Overview
 
